@@ -1,9 +1,10 @@
 # Digispark ATTINY85 BadUSB
 
 Cheap-o version of the Hak5 USB Rubber Ducky.
+Some interesting things can be done on the cheap.
+Try not to do bad things, but have fun messing with friends.
 
-
-# Hardare
+# Hardware
 
 Purchase from Amazon Japan
 
