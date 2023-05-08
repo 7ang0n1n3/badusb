@@ -57,6 +57,10 @@ void loop() {
   hold(500);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   hold(200);
+  DigiKeyboard.print("history -c");
+  hold(200);
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  hold(200);
   DigiKeyboard.sendKeyStroke(KEY_Q, MOD_GUI_LEFT);
   hold(200);
   stoprun();
